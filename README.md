@@ -1,7 +1,7 @@
 # DB-Final-Project
 
 
-This presentation offers a deep dive into Google Play Store analytics, leveraging Kaggle’s historical datasets with Google Cloud Platform and employing Amazon Web Services for current data trends to empower developers with the knowledge to navigate and thrive in the fast-paced app market. Our integrated cloud strategy provides a robust foundation for discerning user behavior and tailoring app features to meet market demands effectively.
+This project offers a deep dive into Google Play Store analytics, leveraging Kaggle’s historical datasets with Google Cloud Platform and employing Amazon Web Services for current data trends to empower developers with the knowledge to navigate and thrive in the fast-paced app market. Our integrated cloud strategy provides a robust foundation for discerning user behavior and tailoring app features to meet market demands effectively.
 
 ![GCP-AIRFLOW](https://github.com/ShamalaC/DB-Final-Project/assets/84058719/cb2cec89-46d9-4660-ae55-28374bfa0af5)
 
